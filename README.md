@@ -51,7 +51,7 @@ or
 </head>
 <body>
 
-  <script src="https://ishidad2.github.io/symbol-node-util-browserify/symbol-node-util.min-1.0.9.js"></script>
+  <script src="https://ishidad2.github.io/symbol-node-util-browserify/symbol-node-util-1.0.9.min.js"></script>
   <script>
     const symbolUtil = require("/node_modules/symbol-node-util");
     (async()=>{
